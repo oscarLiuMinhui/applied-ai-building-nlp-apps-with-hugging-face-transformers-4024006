@@ -22,8 +22,8 @@
     // Minimum requirements
   "hostRequirements": {
       "cpus": 2,
-      "memory": "32gb",
-      "storage": "64gb"
+      "memory": "16gb",
+      "storage": "32gb"
     },
   // Update welcome text and set terminal prompt to '$ '
   "onCreateCommand": "echo PS1='\"$ \"' >> ~/.bashrc",
