@@ -21,7 +21,7 @@
   },
     // Minimum requirements
   "hostRequirements": {
-      "cpus": 8,
+      "cpus": 2,
       "memory": "32gb",
       "storage": "64gb"
     },
